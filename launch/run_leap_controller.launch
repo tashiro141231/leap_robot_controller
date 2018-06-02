@@ -1,0 +1,4 @@
+<!-- -*- mode: XML -*- -->
+<launch>
+  <node pkg="leap_robot_controller" name="leap_controller" type="leap_robot_controller_node"/>
+</launch>
